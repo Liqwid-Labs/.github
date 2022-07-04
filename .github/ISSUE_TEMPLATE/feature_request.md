@@ -16,5 +16,11 @@ A clear and concise description of what you want to happen.
 **Describe alternatives you've considered**
 A clear and concise description of any alternative solutions or features you've considered.
 
+**Blockages**
+Are you aware of anything that would prevent this feature being implemented
+Please note things you _know_ will prevent
+implementation and things that you believe _might_ prevent
+implementation, and label them accordingly.
+
 **Additional context**
 Add any other context or screenshots about the feature request here.
